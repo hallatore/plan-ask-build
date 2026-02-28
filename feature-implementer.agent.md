@@ -2,7 +2,7 @@
 name: feature-implementer
 description: Implement requested feature task.
 user-invocable: false
-tools: [vscode/memory, vscode/askQuestions, execute/getTerminalOutput, execute/runInTerminal, read/problems, read/readFile, edit/createDirectory, edit/createFile, edit/editFiles, search/changes, search/codebase, search/fileSearch, search/listDirectory, search/searchResults, search/textSearch, search/usages, 'sequentialthinking/*', ms-vscode.vscode-websearchforcopilot/websearch]
+tools: [vscode/memory, vscode/askQuestions, execute/getTerminalOutput, execute/runInTerminal, read/problems, read/readFile, edit/createDirectory, edit/createFile, edit/editFiles, search/changes, search/codebase, search/fileSearch, search/listDirectory, search/searchResults, search/textSearch, search/usages, ms-vscode.vscode-websearchforcopilot/websearch]
 ---
 <principles>
 - **Minimal**: Write only what the feature requires

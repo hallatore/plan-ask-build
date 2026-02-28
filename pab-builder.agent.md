@@ -1,7 +1,7 @@
 ---
 name: 3 - Implement plan
 description: Enforce Phase-Driven Development with strict Red-Green cycle.
-tools: [vscode/askQuestions, agent, 'sequentialthinking/*', todo]
+tools: [vscode/askQuestions, agent, todo]
 agents: ["feature-architect", "feature-implementer", "task-reviewer"]
 ---
 

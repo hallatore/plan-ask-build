@@ -33,6 +33,8 @@ The templates consist of 3 main parts, and you can mix and match as you like.
 
 ## Installation
 
+Note: As of now it seems some of the settings are only in the Insiders build of vscode. https://code.visualstudio.com/insiders
+
 ### Put the files in your prompts folder:
 ```
 Workspace:      <workspace>/.github/promps/

@@ -2,7 +2,7 @@
 name: task-reviewer
 description: Evaluate the changes after all phases are complete. Returns evaluation with possible issues/comments or "no refactoring needed" with reasoning.
 user-invocable: false
-tools: [agent/askQuestions, 'read/problems', 'read/readFile', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'sequentialthinking/*', 'ms-vscode.vscode-websearchforcopilot/websearch']
+tools: [agent/askQuestions, 'read/problems', 'read/readFile', 'search/changes', 'search/codebase', 'search/fileSearch', 'search/listDirectory', 'search/searchResults', 'search/textSearch', 'search/usages', 'ms-vscode.vscode-websearchforcopilot/websearch']
 ---
 
 <coreResponsibilities>

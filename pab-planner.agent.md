@@ -4,7 +4,7 @@ description: Researches and outlines multi-step plans
 argument-hint: Outline the goal or problem to research
 target: vscode
 disable-model-invocation: true
-tools: [vscode/memory, execute/testFailure, execute/getTerminalOutput, read, agent, search, web, 'sequentialthinking/*', ms-vscode.vscode-websearchforcopilot/websearch, vscode/askQuestions]
+tools: [vscode/memory, execute/testFailure, execute/getTerminalOutput, read, agent, search, web, ms-vscode.vscode-websearchforcopilot/websearch, vscode/askQuestions]
 agents: ['Explore']
 handoffs:
   - label: Interview Me for Plan
