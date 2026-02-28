@@ -38,8 +38,8 @@ Note: As of now it seems some of the settings are only in the Insiders build of 
 ### Put the files in your prompts folder:
 ```
 Workspace:      <workspace>/.github/promps/
-Code:           %appdata%/Code/User/prompts
-Code-insiders:  %appdata%/Code - Insiders/User/prompts
+Code:           %appdata%/Code/User/prompts (~/Library/Application Support/Code/User/prompts on Mac)
+Code-insiders:  %appdata%/Code - Insiders/User/prompts (~/Library/Application Support/Code - Insiders/User/prompts on Mac)
 ```
 
 ### Copilot settings I use
